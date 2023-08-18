@@ -1,2 +1,2 @@
 # Week-6-Helm-and-RPA-tooling
-A project to use Helm and RPA tools (UIpath)
+A project to use UIpath to create a bot
